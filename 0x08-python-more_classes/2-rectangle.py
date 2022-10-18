@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 """This program define a class Rectangle with private attributes and methods"""
 
 
