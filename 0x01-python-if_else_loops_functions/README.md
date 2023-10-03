@@ -1,0 +1,2 @@
+# 0x01-python-if_else_loops_functions
+This directory contains Python scripts that demonstrate the use of if/else statements, loops, and functions. I covered a wide range of topics, including printing text and numbers, working with strings and lists, and implementing mathematical operations. Each script is designed to showcase a specific concept or technique in Python programming, making it a useful resource for beginners and experienced programmers alike.
