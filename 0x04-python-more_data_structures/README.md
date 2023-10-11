@@ -1,0 +1,1 @@
+In this repository (alx-higher_level_programming), there is a collection of programs written in Python, C, and Shell. The 0x04-python-more_data_structures directory contains Python scripts that demonstrate the use of more advanced data structures such as sets and dictionaries. The directory also introduces built-in functions such as map, filter, and lambda anonymous functions.
