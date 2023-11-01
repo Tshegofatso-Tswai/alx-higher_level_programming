@@ -1,0 +1,1 @@
+This directory delves into the fundamental concept that "everything is an object" in Python. The programs in this directory explore the behavior and characteristics of various objects and their relationship to object-oriented programming in Python.
