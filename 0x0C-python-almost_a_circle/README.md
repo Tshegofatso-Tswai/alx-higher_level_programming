@@ -1,0 +1,1 @@
+This directory contains Python scripts and modules that implement classes and functions related to geometric shapes, particularly rectangles and squares, forming the foundation for a future drawing application.
