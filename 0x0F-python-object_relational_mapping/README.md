@@ -1,1 +1,1 @@
-ashcbnjcwehcjw
+This directory contains Python scripts and exercises related to Object-Relational Mapping (ORM) using SQLAlchemy. ORM is a programming technique that connects the objects in your code with the tables in your relational database.
