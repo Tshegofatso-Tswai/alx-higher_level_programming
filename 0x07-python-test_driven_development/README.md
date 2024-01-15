@@ -1,0 +1,1 @@
+This directory contains Python scripts and test files related to test-driven development (TDD). In TDD, code development is driven by creating tests before writing code, ensuring that the code functions as expected. These scripts are designed to showcase the TDD approach and demonstrate how to write tests using the unittest framework in Python.

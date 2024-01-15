@@ -1,0 +1,1 @@
+This directory contains Python scripts and programs that showcase various aspects of input and output handling in Python. These scripts cover topics such as file manipulation, reading and writing data, and managing input/output streams.

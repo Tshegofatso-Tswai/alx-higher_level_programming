@@ -1,0 +1,1 @@
+This directory contains Python scripts that demonstrate various concepts related to handling exceptions in Python. Exception handling is a fundamental part of writing robust and reliable code. The scripts in this directory cover topics such as try, except, raise, and finally statements, as well as specific exceptions like `ValueError`, `TypeError`, and `ZeroDivisionError`.

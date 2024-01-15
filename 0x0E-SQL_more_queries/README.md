@@ -1,0 +1,1 @@
+This directory contains solutions for SQL queries, building on the foundation of SQL introduced in previous directory. The queries here cover a range of topics, including advanced SELECT statements, subqueries, joins, and more.
